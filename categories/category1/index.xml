@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Category1 on Hugo New Dream</title><link>https://example.com/categories/category1/</link><description>Recent content in Category1 on Hugo New Dream</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sat, 24 Jan 2026 09:58:46 +0800</lastBuildDate><atom:link href="https://example.com/categories/category1/index.xml" rel="self" type="application/rss+xml"/><item><title>Sdf8899</title><link>https://example.com/posts/sdf8899/</link><pubDate>Sat, 24 Jan 2026 09:58:46 +0800</pubDate><guid>https://example.com/posts/sdf8899/</guid><description>&lt;p&gt;发布文章
+发文章 在powershell博客路径下，输入指令
+hugo new content posts/test1.md
+即发布了名为test1的文章，打卡对应路径下的md进行修改
+看站点 文章默认是draft草稿模式，可使用以下指令查看含草稿的站点
+hugo server -D
+至此，本地博客建完&lt;/p&gt;</description></item></channel></rss>
