@@ -4,4 +4,4 @@ hugo new content posts/test1.md
 即发布了名为test1的文章，打卡对应路径下的md进行修改
 看站点 文章默认是draft草稿模式，可使用以下指令查看含草稿的站点
 hugo server -D
-至此，本地博客建完&lt;/p&gt;</description></item></channel></rss>
+至此，本地博客建完&lt;/p&gt;</description></item><item><title/><link>https://example.com/_drafts/gdgfg455/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/_drafts/gdgfg455/</guid><description/></item></channel></rss>
