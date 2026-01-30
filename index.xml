@@ -4,4 +4,12 @@ hugo new content posts/test1.md
 即发布了名为test1的文章，打卡对应路径下的md进行修改
 看站点 文章默认是draft草稿模式，可使用以下指令查看含草稿的站点
 hugo server -D
-至此，本地博客建完&lt;/p&gt;</description></item></channel></rss>
+至此，本地博客建完&lt;/p&gt;</description></item><item><title>Vercel自动部署</title><link>https://example.com/posts/gdgfg455/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/posts/gdgfg455/</guid><description>&lt;p&gt;source库 &lt;a href="https://github.com/kef885/hugo-new" target="_blank"&gt;https://github.com/kef885/hugo-new&lt;/a&gt;
+
+pages库 &lt;a href="https://github.com/kef885/kef885.github.io" target="_blank"&gt;https://github.com/kef885/kef885.github.io&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/wuke3/qexo" target="_blank"&gt;https://github.com/wuke3/qexo&lt;/a&gt;
+
+部署链接：Vercel自动部署
+&lt;a href="https://vercel.com/new/clone?repository-url=https://github.com/wuke3/qexo" target="_blank"&gt;https://vercel.com/new/clone?repository-url=https://github.com/wuke3/qexo&lt;/a&gt;
+&lt;/p&gt;</description></item></channel></rss>
